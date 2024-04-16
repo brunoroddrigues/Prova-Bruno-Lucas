@@ -4,6 +4,18 @@
 <br>
 ***Lucas Andriotti Ciamaricone***
 
+
+# Importância de Estudar o GitHub
+
+O GitHub é uma plataforma fundamental para desenvolvedores, colaboradores de projetos de código aberto e profissionais de tecnologia em geral. Estudar o GitHub não apenas amplia suas habilidades técnicas, mas também melhora sua colaboração e visibilidade na comunidade de desenvolvimento de software.
+
+## Por que estudar o GitHub?
+
+### 1. Colaboração Eficiente
+
+O GitHub simplifica o processo de colaboração em projetos de software, permitindo que várias pessoas trabalhem no mesmo projeto simultaneamente. Estudar o GitHub ensina habilidades essenciais, como criação de branches, pull requests e resolução de conflitos, facilitando uma colaboração eficiente
+
+
 ## Descrição
 
 Neste repositorio ésta nossa prova, com 5 arquivos diferentes.
