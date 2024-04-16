@@ -1,3 +1,7 @@
+Testando ramoBruno  
+git checkout -b "ramoBruno"
+
+
 delimiter //
 CREATE TRIGGER baixa AFTER INSERT ON itens 
 FOR EACH ROW 
