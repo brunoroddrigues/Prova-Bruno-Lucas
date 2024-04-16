@@ -1,0 +1,10 @@
+delimiter //
+CREATE TRIGGER baixa AFTER INSERT ON itens 
+FOR EACH ROW 
+BEGIN 
+	
+	UPDATE produto SET  estoque = estoque - NEW.quantidadede WHERE idproduto = NEW.idproduto;
+	
+END;
+//
+delimiter ;
