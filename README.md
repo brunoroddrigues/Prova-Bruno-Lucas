@@ -41,3 +41,14 @@ Documento Original
 Documento Alterado
 
 ![print b](https://github.com/brunoroddrigues/Prova-Bruno-Lucas/assets/142831593/0aff08e8-7d63-4592-9262-f07c45feb6b9)
+
+
+Documento Original 
+
+![print200](https://github.com/brunoroddrigues/Prova-Bruno-Lucas/assets/142831593/8dea6145-69ef-4b77-aca0-000f5b04d6a2)
+
+Documento Alterado 
+
+![print1000](https://github.com/brunoroddrigues/Prova-Bruno-Lucas/assets/142831593/91237465-7b8d-458b-9d26-82df99e6c271)
+
+
